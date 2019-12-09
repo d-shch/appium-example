@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="appium-example" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$" external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":" />
+      </configuration>
+    </facet>
+    <facet type="java-gradle" name="Java-Gradle">
+      <configuration>
+        <option name="BUILD_FOLDER_PATH" value="$MODULE_DIR$/build" />
+        <option name="BUILDABLE" value="true" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/build/classes/java/main" />
+    <output-test url="file://$MODULE_DIR$/build/classes/java/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: allure-junit5-2.6.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: junit-jupiter-engine-5.3.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: junit-jupiter-params-5.3.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: allure-junit-platform-2.6.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: junit-jupiter-api-5.3.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: junit-platform-runner-1.3.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: java-client-7.3.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: assertj-core-3.9.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: rest-assured-3.0.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: junit-platform-launcher-1.3.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: junit-platform-engine-1.3.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: junit-platform-suite-api-1.3.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: junit-platform-commons-1.3.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: apiguardian-api-1.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: opentest4j-1.1.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: junit-4.12" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: selenium-java-3.141.59" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: selenium-support-3.141.59" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: selenium-chrome-driver-3.141.59" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: selenium-edge-driver-3.141.59" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: selenium-firefox-driver-3.141.59" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: selenium-ie-driver-3.141.59" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: selenium-opera-driver-3.141.59" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: selenium-safari-driver-3.141.59" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: selenium-remote-driver-3.141.59" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: selenium-api-3.141.59" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: gson-2.8.5" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: httpmime-4.5.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: httpclient-4.5.9" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: cglib-3.2.12" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: commons-validator-1.6" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: xml-path-3.0.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: allure-java-commons-2.6.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: json-path-3.0.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: rest-assured-common-3.0.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: commons-lang3-3.9" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: commons-io-2.6" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: spring-context-5.1.8.RELEASE" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: aspectjweaver-1.9.4" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: slf4j-api-1.7.26" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: groovy-xml-2.4.6" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: groovy-json-2.4.6" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: groovy-2.4.6" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: hamcrest-library-1.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: hamcrest-core-1.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: tagsoup-1.2.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: byte-buddy-1.8.15" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: commons-exec-1.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: guava-25.0-jre" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: okhttp-3.11.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: okio-1.14.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: httpcore-4.4.11" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: commons-beanutils-1.9.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: commons-logging-1.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: commons-codec-1.11" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: asm-7.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: commons-digester-1.8.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: commons-collections-3.2.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: spring-aop-5.1.8.RELEASE" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: spring-beans-5.1.8.RELEASE" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: spring-expression-5.1.8.RELEASE" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: spring-core-5.1.8.RELEASE" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: allure2-model-api-1.0-BETA6" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: aspectjrt-1.8.10" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: joor-0.9.6" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: jsr305-1.3.9" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: checker-compat-qual-2.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: error_prone_annotations-2.1.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: j2objc-annotations-1.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: animal-sniffer-annotations-1.14" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: spring-jcl-5.1.8.RELEASE" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: allure2-model-jackson-1.0-BETA6" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: allure2-model-pojo-1.0-BETA6" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: tika-core-1.14" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: jackson-module-jaxb-annotations-2.7.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: jackson-databind-2.7.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: jackson-annotations-2.7.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: jackson-core-2.7.0" level="project" />
+  </component>
+</module>
